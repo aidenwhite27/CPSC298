@@ -2,7 +2,7 @@
 #define GAME_H
 /// @file Game.cpp
 /// @brief Header file for Game class
-/// @author outstanding.student@chapman.edu
+/// @author aiwhite@chapman.edu
 /// CPSC 298-6 Colloquium: Programming in C++
 
 #include <tuple>    // defines std::tuple, std::tie

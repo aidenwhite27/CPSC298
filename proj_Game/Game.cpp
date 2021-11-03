@@ -1,6 +1,6 @@
 /// @file Game.cpp
 /// @brief Implementation file for Game class
-/// @author outstanding.student@chapman.edu
+/// @author aiwhite@chapman.edu
 /// CPSC 298-6 Colloquium: Programming in C++
 
 #include <iostream> // defines std::cout
@@ -12,7 +12,7 @@
 #include "Game.h"   // defines Game class
 
 //#define TEST  // macro to enable test mode functionality (not used during ordinary gameplay)
-#define DIAG  // macro to enable diagnostic output (not used during ordinary gameplay)
+//#define DIAG  // macro to enable diagnostic output (not used during ordinary gameplay)
 
 // /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\ //
 // TODO: COMPLETE Game CONSTRUCTOR INITIALIZER LIST

@@ -1,6 +1,6 @@
 /// @file main.cpp
 /// @brief main function file for Game
-/// @author outstanding.student@chapman.edu
+/// @author aiwhite@chapman.edu
 /// CPSC 298-6 Colloquium: Programming in C++
 
 #include <iostream>   // defines std::cout, std::cin
